@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: i8vny019c-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/i8vny019c-java-springboot-gitops
